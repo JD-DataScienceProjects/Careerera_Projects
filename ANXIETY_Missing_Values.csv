@@ -1,7 +1,7 @@
 Instructor,Final,Anxiety,Gender,Age ,High School GPA Points 
-A,35,93.552,Female,22,4
-,70,95.164,Male,45,
-A,70,83.88,Female,28,
+A,'35',93.552,Female,22,4
+,'70',95.164,Male,45,
+A,'70',83.88,Female,28,
 A,30,84.686,Male,34,
 A,92,82.268,Male,20,
 A,80,63.73,Male,27,
